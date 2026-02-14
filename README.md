@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=845BB3&center=true&width=435&lines=I+am+an+Information+Systems+student;I+am+from+Brazil;See+you+later!" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=845BB3&center=true&width=435&lines=I'm+an+Information+Systems+student;I'm+from+Brazil;See+you+later!" alt="Typing SVG" /></a>
 </div>
 
 <br><br>
